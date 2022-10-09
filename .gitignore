@@ -1,0 +1,2 @@
+# ignore all ending with .js
+/**/*.js
